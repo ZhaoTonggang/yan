@@ -5,7 +5,6 @@ const cacheList = [
 "./", 
 "./index.html", 
 "./manifest.json", 
-"./data.dat", 
 "./css/style.css", 
 "./css/animsition.min.css", 
 "./img/logo.svg", 
